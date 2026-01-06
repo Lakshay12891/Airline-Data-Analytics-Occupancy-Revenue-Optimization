@@ -1,5 +1,10 @@
 # Airline Data Analytics: Occupancy & Revenue Optimization ✈️
 
+## Dataset Note
+The SQLite database used in this project is not included in the repository due to
+GitHub file size limitations. The analysis notebook documents the schema and logic
+used throughout the project.
+
 ## Project Overview
 This project analyzes airline operational data using SQLite and Python to identify
 opportunities for improving aircraft occupancy rates and enhancing revenue efficiency
@@ -93,3 +98,4 @@ challenging market conditions.
 - Incorporate operational cost data to enable true profitability analysis
 - Build demand forecasting models for route-level planning
 - Apply dynamic pricing simulations based on historical demand patterns
+
